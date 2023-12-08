@@ -19,7 +19,7 @@ But with no real controller and main, I didn't know where to init it. I had trou
 something is going wrong there. I also don't think my two Servlets are properly connected / redirecting content - some debugging to do there. 
 
 I didn't get around to learning more about JavaScript to make it so that multiple users on different computers can run the web app. Also, would have loved to created CSS files 
-for formtting, but also time didn't permit for that. Needless to say, there is a lot to learn and I will be taking a Web Dev course now. :) Thanks for looking at my incomplete app - glad I 
+for formatting, but also time didn't permit for that. Needless to say, there is a lot to learn and I will be taking a Web Dev course now. :) Thanks for looking at my incomplete app - glad I 
 attempted it, because I learned a lot and realized I am actually interested in web dev and getting more familiar with it!
 
 **Running Application **
