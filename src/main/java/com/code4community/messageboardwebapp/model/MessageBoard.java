@@ -17,6 +17,8 @@ public class MessageBoard {
 
         this.board = new ArrayList<>();
     }
+
+    //adds a message
     public void addMessage(Message message) {
         this.board.add(message);
     }
